@@ -1,0 +1,116 @@
+h2{
+	color:#1687a7;
+	font-weight: lighter;
+}
+
+h1,h2,h3{
+	font-family: Helvetica;
+}
+
+a:hover{
+	color:#a7c5eb;
+}
+
+#colorhunt.co
+#googlefonts #html #and #css #code 
+/*nnnnnnnnnn*/ 
+
+.img-main{
+	border-radius:10%;
+	box-shadow:2px 2px 1px rgba(0,0,0,0.1);
+	display:block;
+	max-width: 100%;
+ 	height: auto;
+}
+
+.txt-centre {
+	text-align: justify;
+}
+
+@media(max-width: 700px){
+	.container{
+		width: 500px;
+	}
+}
+
+/*custom design with class*/
+.container {
+	width: 800px;
+	margin:20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+	border-radius:4px;
+	margin:20px 0px;
+	text-align: center;
+}
+
+.btn{
+	text-decoration: none;
+	background-color: #4a47a3;
+	color:white;
+	font-size: 25px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 10px #a7c5eb;
+	border-radius: 20px;
+	box-shadow: rgba(0,0,0,0.2)
+}
+
+#logo{
+  display: block;
+  object-position: center;
+  width: 50%;
+  height: 50%;
+  padding-top: 20px;
+  margin:auto;
+  padding-left: 120px;
+}
+
+.topnav {
+	background-color: #a7c5eb;
+	overflow:hidden;
+	color: white;
+}
+
+.topnav a{
+	float:left;
+	color:white;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	color:blue;
+}
+
+.topnav a.active {
+	color:blue;
+}
+
+.three_column {
+	column-count: 3;
+}
+
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url("images/doctor.jpg");
+	background-size: cover;
+	background-position: center;
+	margin:0 auto;
+	padding: 150px 0px;
+	color: white;
+	padding-left: 20px;
+}
+
+.banner h1{
+	font-size: 50px;
+	font-weight: lighter;
+}
